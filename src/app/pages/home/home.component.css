@@ -1,0 +1,28 @@
+.home__container {
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: baseline; */
+  gap: 0 1rem;
+}
+
+.title__container {
+  margin: 3rem auto 0 auto;
+  width: 80%;
+}
+
+.title__container > h2 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cards__container {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
