@@ -1,6 +1,7 @@
 # 🎮 Playstation Store
 
 > Clone da Playstation Store feito com Angular.
+Projeto do bootcamp fullstack Java + Angular da DIO.
 
 ## Acesse o projeto:
 
